@@ -1,0 +1,23 @@
+# MATLAB
+*.asv
+*.m~
+slprj/
+*.mex*
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.env
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Draft folders (daily work-in-progress)
+28-04/
+29-04/
+02-05/
