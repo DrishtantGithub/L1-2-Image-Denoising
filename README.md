@@ -1,7 +1,7 @@
 # L1/2 Regularization for Image Denoising
 
-**CS754 Course Project — IIT Bombay**
-Yug Thosar (25M1101) · Drishtant Jain (24M1085)
+**CS754 Course Project — IIT Bombay**  
+Yug Thosar (25M1101) · Drishtant Jain (24M1085)  
 Guidance: Prof. Ajit Rajwade
 
 ---
